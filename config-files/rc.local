@@ -22,6 +22,5 @@ sudo ifup wlan0
 sudo ifup wlan1
 sudo service hostapd start
 sudo service udhcpd start
-sudo route add default gw 192.168.1.1
 
 exit 0
